@@ -10,12 +10,29 @@
 		1C5D1C8520574D3900CC0B0D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5D1C8420574D3900CC0B0D /* AppDelegate.swift */; };
 		1C5D1C8720574D3900CC0B0D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5D1C8620574D3900CC0B0D /* ViewController.swift */; };
 		1C5D1C8A20574D3900CC0B0D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C5D1C8820574D3900CC0B0D /* Main.storyboard */; };
-		1C5D1C8C20574D3900CC0B0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C5D1C8B20574D3900CC0B0D /* Assets.xcassets */; };
 		1C5D1C8F20574D3900CC0B0D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C5D1C8D20574D3900CC0B0D /* LaunchScreen.storyboard */; };
 		1C5D1C9A20574D3900CC0B0D /* MSUExploreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5D1C9920574D3900CC0B0D /* MSUExploreTests.swift */; };
 		1C5D1CA520574D3900CC0B0D /* MSUExploreUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5D1CA420574D3900CC0B0D /* MSUExploreUITests.swift */; };
 		1C5D1CB4205757AB00CC0B0D /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C5D1CB3205757AB00CC0B0D /* CoreLocation.framework */; };
 		1C5D1CB620575CB100CC0B0D /* BuildingsAnnotataions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5D1CB520575CB100CC0B0D /* BuildingsAnnotataions.swift */; };
+		4232CBF3207458E7003C42A7 /* Craig Hall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBE2207458E5003C42A7 /* Craig Hall.jpg */; };
+		4232CBF4207458E7003C42A7 /* Glass Hall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBE3207458E5003C42A7 /* Glass Hall.jpg */; };
+		4232CBF5207458E7003C42A7 /* Cheek Hall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBE4207458E5003C42A7 /* Cheek Hall.jpg */; };
+		4232CBF6207458E7003C42A7 /* Kemper Hall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBE5207458E5003C42A7 /* Kemper Hall.jpg */; };
+		4232CBF7207458E7003C42A7 /* Temple Hall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBE6207458E5003C42A7 /* Temple Hall.jpg */; };
+		4232CBF8207458E7003C42A7 /* Hill Hall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBE7207458E5003C42A7 /* Hill Hall.jpg */; };
+		4232CBF9207458E7003C42A7 /* Karls Hall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBE8207458E6003C42A7 /* Karls Hall.jpg */; };
+		4232CBFA207458E7003C42A7 /* Carrington Hall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBE9207458E6003C42A7 /* Carrington Hall.jpg */; };
+		4232CBFB207458E7003C42A7 /* Bill R. Foster and Family Recreation Center.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBEA207458E6003C42A7 /* Bill R. Foster and Family Recreation Center.jpg */; };
+		4232CBFC207458E7003C42A7 /* McDonald Hall & Arena.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBEB207458E6003C42A7 /* McDonald Hall & Arena.jpg */; };
+		4232CBFD207458E7003C42A7 /* Art Annex.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBEC207458E6003C42A7 /* Art Annex.jpg */; };
+		4232CBFE207458E7003C42A7 /* Pummill Hall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBED207458E6003C42A7 /* Pummill Hall.jpg */; };
+		4232CBFF207458E7003C42A7 /* Siceluff Hall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBEE207458E6003C42A7 /* Siceluff Hall.jpg */; };
+		4232CC00207458E7003C42A7 /* Duane G. Meyer Library.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBEF207458E7003C42A7 /* Duane G. Meyer Library.jpg */; };
+		4232CC01207458E7003C42A7 /* Strong Hall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBF0207458E7003C42A7 /* Strong Hall.jpg */; };
+		4232CC02207458E7003C42A7 /* Kings Street Annex.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBF1207458E7003C42A7 /* Kings Street Annex.jpg */; };
+		4232CC03207458E7003C42A7 /* Ellis Hall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4232CBF2207458E7003C42A7 /* Ellis Hall.jpg */; };
+		4232CC0920745BA0003C42A7 /* images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4232CC0820745BA0003C42A7 /* images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,7 +57,6 @@
 		1C5D1C8420574D3900CC0B0D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1C5D1C8620574D3900CC0B0D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1C5D1C8920574D3900CC0B0D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		1C5D1C8B20574D3900CC0B0D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C5D1C8E20574D3900CC0B0D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C5D1C9020574D3900CC0B0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1C5D1C9520574D3900CC0B0D /* MSUExploreTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MSUExploreTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -51,6 +67,24 @@
 		1C5D1CA620574D3900CC0B0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1C5D1CB3205757AB00CC0B0D /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		1C5D1CB520575CB100CC0B0D /* BuildingsAnnotataions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildingsAnnotataions.swift; sourceTree = "<group>"; };
+		4232CBE2207458E5003C42A7 /* Craig Hall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Craig Hall.jpg"; sourceTree = "<group>"; };
+		4232CBE3207458E5003C42A7 /* Glass Hall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Glass Hall.jpg"; sourceTree = "<group>"; };
+		4232CBE4207458E5003C42A7 /* Cheek Hall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cheek Hall.jpg"; sourceTree = "<group>"; };
+		4232CBE5207458E5003C42A7 /* Kemper Hall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kemper Hall.jpg"; sourceTree = "<group>"; };
+		4232CBE6207458E5003C42A7 /* Temple Hall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Temple Hall.jpg"; sourceTree = "<group>"; };
+		4232CBE7207458E5003C42A7 /* Hill Hall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Hill Hall.jpg"; sourceTree = "<group>"; };
+		4232CBE8207458E6003C42A7 /* Karls Hall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Karls Hall.jpg"; sourceTree = "<group>"; };
+		4232CBE9207458E6003C42A7 /* Carrington Hall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Carrington Hall.jpg"; sourceTree = "<group>"; };
+		4232CBEA207458E6003C42A7 /* Bill R. Foster and Family Recreation Center.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Bill R. Foster and Family Recreation Center.jpg"; sourceTree = "<group>"; };
+		4232CBEB207458E6003C42A7 /* McDonald Hall & Arena.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "McDonald Hall & Arena.jpg"; sourceTree = "<group>"; };
+		4232CBEC207458E6003C42A7 /* Art Annex.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Art Annex.jpg"; sourceTree = "<group>"; };
+		4232CBED207458E6003C42A7 /* Pummill Hall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pummill Hall.jpg"; sourceTree = "<group>"; };
+		4232CBEE207458E6003C42A7 /* Siceluff Hall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Siceluff Hall.jpg"; sourceTree = "<group>"; };
+		4232CBEF207458E7003C42A7 /* Duane G. Meyer Library.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Duane G. Meyer Library.jpg"; sourceTree = "<group>"; };
+		4232CBF0207458E7003C42A7 /* Strong Hall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Strong Hall.jpg"; sourceTree = "<group>"; };
+		4232CBF1207458E7003C42A7 /* Kings Street Annex.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kings Street Annex.jpg"; sourceTree = "<group>"; };
+		4232CBF2207458E7003C42A7 /* Ellis Hall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ellis Hall.jpg"; sourceTree = "<group>"; };
+		4232CC0820745BA0003C42A7 /* images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +121,7 @@
 				1C5D1CA320574D3900CC0B0D /* MSUExploreUITests */,
 				1C5D1C8220574D3900CC0B0D /* Products */,
 				1C5D1CB2205757AA00CC0B0D /* Frameworks */,
+				4232CC0720745969003C42A7 /* static images */,
 			);
 			sourceTree = "<group>";
 		};
@@ -107,7 +142,6 @@
 				1C5D1C8620574D3900CC0B0D /* ViewController.swift */,
 				1C5D1CB520575CB100CC0B0D /* BuildingsAnnotataions.swift */,
 				1C5D1C8820574D3900CC0B0D /* Main.storyboard */,
-				1C5D1C8B20574D3900CC0B0D /* Assets.xcassets */,
 				1C5D1C8D20574D3900CC0B0D /* LaunchScreen.storyboard */,
 				1C5D1C9020574D3900CC0B0D /* Info.plist */,
 			);
@@ -119,6 +153,7 @@
 			children = (
 				1C5D1C9920574D3900CC0B0D /* MSUExploreTests.swift */,
 				1C5D1C9B20574D3900CC0B0D /* Info.plist */,
+				4232CC0820745BA0003C42A7 /* images.xcassets */,
 			);
 			path = MSUExploreTests;
 			sourceTree = "<group>";
@@ -135,9 +170,49 @@
 		1C5D1CB2205757AA00CC0B0D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				4232CC0620745948003C42A7 /* pictures */,
+				4232CC0520745919003C42A7 /* New Group */,
 				1C5D1CB3205757AB00CC0B0D /* CoreLocation.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4232CC0520745919003C42A7 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		4232CC0620745948003C42A7 /* pictures */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = pictures;
+			sourceTree = "<group>";
+		};
+		4232CC0720745969003C42A7 /* static images */ = {
+			isa = PBXGroup;
+			children = (
+				4232CBE9207458E6003C42A7 /* Carrington Hall.jpg */,
+				4232CBE4207458E5003C42A7 /* Cheek Hall.jpg */,
+				4232CBE2207458E5003C42A7 /* Craig Hall.jpg */,
+				4232CBEA207458E6003C42A7 /* Bill R. Foster and Family Recreation Center.jpg */,
+				4232CBEC207458E6003C42A7 /* Art Annex.jpg */,
+				4232CBEF207458E7003C42A7 /* Duane G. Meyer Library.jpg */,
+				4232CBF2207458E7003C42A7 /* Ellis Hall.jpg */,
+				4232CBE3207458E5003C42A7 /* Glass Hall.jpg */,
+				4232CBE7207458E5003C42A7 /* Hill Hall.jpg */,
+				4232CBE8207458E6003C42A7 /* Karls Hall.jpg */,
+				4232CBE5207458E5003C42A7 /* Kemper Hall.jpg */,
+				4232CBF1207458E7003C42A7 /* Kings Street Annex.jpg */,
+				4232CBEB207458E6003C42A7 /* McDonald Hall & Arena.jpg */,
+				4232CBED207458E6003C42A7 /* Pummill Hall.jpg */,
+				4232CBEE207458E6003C42A7 /* Siceluff Hall.jpg */,
+				4232CBF0207458E7003C42A7 /* Strong Hall.jpg */,
+				4232CBE6207458E5003C42A7 /* Temple Hall.jpg */,
+			);
+			path = "static images";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -247,9 +322,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4232CBF4207458E7003C42A7 /* Glass Hall.jpg in Resources */,
+				4232CBF6207458E7003C42A7 /* Kemper Hall.jpg in Resources */,
+				4232CC00207458E7003C42A7 /* Duane G. Meyer Library.jpg in Resources */,
+				4232CBFF207458E7003C42A7 /* Siceluff Hall.jpg in Resources */,
+				4232CBF5207458E7003C42A7 /* Cheek Hall.jpg in Resources */,
+				4232CBFD207458E7003C42A7 /* Art Annex.jpg in Resources */,
 				1C5D1C8F20574D3900CC0B0D /* LaunchScreen.storyboard in Resources */,
-				1C5D1C8C20574D3900CC0B0D /* Assets.xcassets in Resources */,
+				4232CBFC207458E7003C42A7 /* McDonald Hall & Arena.jpg in Resources */,
+				4232CBFA207458E7003C42A7 /* Carrington Hall.jpg in Resources */,
+				4232CC01207458E7003C42A7 /* Strong Hall.jpg in Resources */,
+				4232CBF9207458E7003C42A7 /* Karls Hall.jpg in Resources */,
+				4232CBFE207458E7003C42A7 /* Pummill Hall.jpg in Resources */,
 				1C5D1C8A20574D3900CC0B0D /* Main.storyboard in Resources */,
+				4232CBF3207458E7003C42A7 /* Craig Hall.jpg in Resources */,
+				4232CBF8207458E7003C42A7 /* Hill Hall.jpg in Resources */,
+				4232CBFB207458E7003C42A7 /* Bill R. Foster and Family Recreation Center.jpg in Resources */,
+				4232CC02207458E7003C42A7 /* Kings Street Annex.jpg in Resources */,
+				4232CBF7207458E7003C42A7 /* Temple Hall.jpg in Resources */,
+				4232CC03207458E7003C42A7 /* Ellis Hall.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +348,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4232CC0920745BA0003C42A7 /* images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -443,7 +535,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C34RYV92S8;
+				DEVELOPMENT_TEAM = K58WV6Y2DW;
 				INFOPLIST_FILE = MSUExplore/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = nawaf.MSUExplore;
@@ -458,7 +550,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C34RYV92S8;
+				DEVELOPMENT_TEAM = K58WV6Y2DW;
 				INFOPLIST_FILE = MSUExplore/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = nawaf.MSUExplore;
